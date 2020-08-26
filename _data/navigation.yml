@@ -10,7 +10,7 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /files/Curriculum Vitae_Vu_Anh_Van.pdf
     
   - title: "Publications"
@@ -19,5 +19,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /contact/
+#  - title: "Guide"
+#    url: /markdown/
