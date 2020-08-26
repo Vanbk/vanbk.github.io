@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "Republic of Korea"
-title                    : "Anh-Van Vu / Site Title"
+title                    : "Anh-Van Vu"
 title_separator          : "-"
 name                     : &name "Anh-Van Vu"
-description              : &description "personal description"
+description              : &description "Korea Advanced Institute of Science and Technology"
 url                      : https://vanbk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
