@@ -1,7 +1,5 @@
 ---
-title: "Recommending the
-Workflow of Vietnamese Sign Language Translation via a Comparison of Several Classification
-Algorithms"
+title: "Recommending the Workflow of Vietnamese Sign Language Translation via a Comparison of Several Classification Algorithms"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
