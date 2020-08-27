@@ -20,7 +20,7 @@ redirect_from:
 
 
 # Recent News
-* October, 2020. Complete the master on science program at School of Electrical Engineering, KAIST
+* October, 2020. Complete the master in science program at School of Electrical Engineering, KAIST
 * March, 2018. Obtained Engineer's Degree in Electrical Engineering at HUST
 
 
