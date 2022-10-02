@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-06-02
-venue: '2019 International Conference of the Pacific Association for Computational Linguistics'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-981-15-6168-9_12'
+venue: '2022 International Conference on Indoor Positioning and Indoor Navigation (IPIN), 5 - 7 Sep. 2022, Beijing, China
+paperurl: #'https://link.springer.com/chapter/10.1007/978-981-15-6168-9_12'
 citation: 'Quach Luyl-Da, Nghia Duong-Trung, <b>Van Anh Vu</b>, and Nguyen Chi-Ngon, <i>2019 International Conference of the Pacific Association for Computational Linguistics</i> <b>PACLING 2019</b>.'
 ---
 [[PDF]](http://vanbk.github.io/files/paper2.pdf)
