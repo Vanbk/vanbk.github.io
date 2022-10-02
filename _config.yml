@@ -10,7 +10,7 @@ locale                   : "Republic of Korea"
 title                    : "Anh-Van Vu"
 title_separator          : "-"
 name                     : &name "Anh-Van Vu"
-description              : &description "Master of Science, School of Electrical Engineering, Korea Advanced Institute of Science and Technology "
+description              : &description "Master of Science, School of Electrical Engineering, KAIST "
 url                      : https://vanbk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Anh-Van Vu"
   avatar           : "20194181.jpg"
-  bio              : "Full-time Researcher, Department of Computer Science, Korea Advanced Institute of Science and Technology (KAIST) "
+  bio              : "Full-time Researcher, Department of Computer Science, KAIST"
   location         : "Daejeon, Republic of Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=We1WRIYAAAAJ&hl=vi"
   email            : "vuanhvan@kait.ac.kr"
   researchgate     : "https://www.researchgate.net/profile/Anh_Van_Vu"
   uri              :
