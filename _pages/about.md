@@ -23,6 +23,6 @@ redirect_from:
 * July, 2021. Our research team introduces an Indoor and Outdoor Integrated Positioning System that applies AI and IoT to provide locating service in both outdoor and indoor environment. [News Report by KBS](https://www.youtube.com/watch?v=coQhDIvFYQk&list=LL&index=19). 
 * September, 2020. Start working at Department of Computer Science, KAIST.
 * August, 2020. Complete the master in science program at School of Electrical Engineering, KAIST.
-* March, 2018. Obtained Engineer's Degree in Electrical Engineering at HUST.
+* March, 2018. Obtained Engineer's Degree in Electrical Engineering at HUST. 
 
 # Academic Services
