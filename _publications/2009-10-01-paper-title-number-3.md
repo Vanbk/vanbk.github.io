@@ -6,7 +6,7 @@ excerpt: #'This paper is about the number 1. The number 2 is left for future wor
 date: 2022-09-05
 venue: '2022 International Conference on Indoor Positioning and Indoor Navigation'
 paperurl: #'https://link.springer.com/chapter/10.1007/978-981-15-6168-9_12'
-citation: '<b>Anh-Van Vu</b>, and DongSoo Han, <i>2022 International Conference on Indoor Positioning and Indoor Navigation</i> <b>IPIN 2022</b>.'
+citation: '<b>Anh-Van Vu</b>, and DongSoo Han, <i>2022 International Conference on Indoor Positioning and Indoor Navigation, Beijing, China </i> <b>IPIN 2022</b>.'
 ---
 [[PDF]](http://vanbk.github.io/files/paper3.pdf)
 
