@@ -20,7 +20,7 @@ redirect_from:
 * Further information: [[Curriculum Vitae](https://vanbkgithub.io/files/Curriculum%20Vitae_Vu_Anh_Van.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=We1WRIYAAAAJ&hl=vi)]
 
 # Recent News
-* July, 2021. Our research team introduces an Indoor and Outdoor Integrated Positioning System that applies AI and IoT to provide locating service in both outdoor and indoor environment. [News Report by KBS](https://www.youtube.com/watch?v=MxOanea3nIM&list=LL&index=20).
+* July, 2021. Our research team introduces an Indoor and Outdoor Integrated Positioning System that applies AI and IoT to provide locating service in both outdoor and indoor environment. [News Report by KBS](https://www.youtube.com/watch?v=coQhDIvFYQk&list=LL&index=19). 
 * September, 2020. Start working at Department of Computer Science, KAIST.
 * August, 2020. Complete the master in science program at School of Electrical Engineering, KAIST.
 * March, 2018. Obtained Engineer's Degree in Electrical Engineering at HUST.
