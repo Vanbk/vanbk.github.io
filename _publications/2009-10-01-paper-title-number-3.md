@@ -1,7 +1,7 @@
 ---
-title: "Recommending the Workflow of Vietnamese Sign Language Translation via a Comparison of Several Classification Algorithms"
+title: "An IoT Based Approach for Platform Independent Positioning Service"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-2
+permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-06-02
 venue: '2019 International Conference of the Pacific Association for Computational Linguistics'
