@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-09-01
 venue: '2022 International Conference on Indoor Positioning and Indoor Navigation (IPIN), 5 - 7 Sep. 2022, Beijing, China'
-paperurl: #'https://ieeexplore.ieee.org/abstract/document/8587487'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8587487'
 citation: '<b>Anh-Van Vu</b>, DongSoo Han <i>2018 2022 International Conference on Indoor Positioning and Indoor Navigation</i> <b>IPIN 2022</b>.'
 ---
 [[PDF]](http://vanbk.github.io/files/paper3.pdf)
