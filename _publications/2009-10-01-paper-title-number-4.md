@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-4
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-01-20
 venue: '2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
-paperurl: #'https://ieeexplore.ieee.org/abstract/document/10831327'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10831327'
 citation: '<b>Anh-Van Vu</b>, Thanh-Minh Nguyen, Changmin Sung and DongSoo Han, <i> 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC) </i> <b>IEEE SMC 2024</b>.'
 ---
 [[PDF]](http://vanbk.github.io/files/paper4.pdf)
