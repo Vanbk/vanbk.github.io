@@ -1,5 +1,15 @@
 [
   {
+    "id": "infrastructure-free-smartphone-localization",
+    "youtubeId": "GmQBncvPUAE",
+    "type": "showcase",
+    "title": "Infrastructure-free Smartphone Localization",
+    "description": "A demonstration of infrastructure-free localization using a smartphone.",
+    "channel": "An Nguyen",
+    "channelUrl": "https://www.youtube.com/@anthonynguyen342",
+    "sources": ["https://www.youtube.com/watch?v=GmQBncvPUAE"]
+  },
+  {
     "id": "smartphone-indoor-positioning",
     "youtubeId": "Cxpu_CSS8kU",
     "type": "showcase",
