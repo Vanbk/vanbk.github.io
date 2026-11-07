@@ -1,0 +1,32 @@
+[
+  {
+    "id": "smartphone-indoor-positioning",
+    "youtubeId": "Cxpu_CSS8kU",
+    "type": "showcase",
+    "title": "Indoor GPS? Just a Phone | My KAIST Startup Idea",
+    "description": "A KAIST startup concept centered on smartphone-based indoor positioning.",
+    "channel": "An Nguyen",
+    "channelUrl": "https://www.youtube.com/@anthonynguyen342",
+    "sources": ["https://www.youtube.com/watch?v=Cxpu_CSS8kU"]
+  },
+  {
+    "id": "kbs-integrated-positioning",
+    "youtubeId": "coQhDIvFYQk",
+    "type": "media",
+    "title": "Integrated indoor–outdoor positioning — KBS",
+    "description": "KBS coverage of our research team's integrated positioning system, originally shared on this website in July 2022. Report in Korean.",
+    "channel": "KBS Daejeon News",
+    "channelUrl": "https://www.youtube.com/@kbs2094",
+    "sources": ["_pages/about.md", "https://www.youtube.com/watch?v=coQhDIvFYQk"]
+  },
+  {
+    "id": "tjb-integrated-positioning",
+    "youtubeId": "fnU3htLUhV8",
+    "type": "media",
+    "title": "Integrated indoor–outdoor positioning — TJB",
+    "description": "TJB's report on indoor–outdoor positioning research, originally shared on this website in July 2022. Report in Korean.",
+    "channel": "TJB News",
+    "channelUrl": "https://www.youtube.com/@TJBNEWS",
+    "sources": ["_pages/about.md", "https://www.youtube.com/watch?v=fnU3htLUhV8"]
+  }
+]

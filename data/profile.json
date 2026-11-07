@@ -1,0 +1,38 @@
+{
+  "name": "Anh-Van Vu",
+  "url": "https://vanbk.github.io",
+  "role": "Researcher",
+  "avatar": {
+    "src": "/images/anh-van-vu-presenting-research.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": "Anh-Van Vu presenting research at a lectern",
+    "caption": "Presenting research"
+  },
+  "introduction": "I work at the intersection of academic research and industry, focusing on intelligent localization, multi-sensor fusion, and embedded AI. My research connects algorithm development with embedded system design to bring positioning and sensing capabilities to wearable and IoT platforms.",
+  "researchOverview": "My broader research interests span sensing and navigation for mobile and autonomous systems, with an emphasis on real-time state estimation, embedded intelligence, and hardware–software co-design.",
+  "researchBackground": [
+    "My research focuses on intelligent localization and embedded sensing, spanning multi-sensor state estimation, real-time pedestrian dead reckoning, and wearable positioning systems. I approach these problems through hardware–software co-design, considering localization accuracy, computational cost, energy consumption, and system integration.",
+    "Recent contributions include an embedded inertial positioning module, real-time motion estimation on IoT hardware, and a wearable–cloud architecture for continuous indoor–outdoor localization. My broader research interests include on-device AI and efficient learning-based methods for positioning on resource-constrained platforms.",
+    "I received my Ph.D. in Computer Science from KAIST in 2026, following an M.Sc. in Electrical Engineering from KAIST in 2020. Earlier research addressed LoRa-based sensing and control for agriculture and machine learning for Vietnamese Sign Language translation."
+  ],
+  "credential": "Ph.D. in Computer Science, KAIST · 2026",
+  "email": "vuanhvan@kaist.ac.kr",
+  "personalEmail": "anhvan195.th@gmail.com",
+  "location": "Daejeon, Republic of Korea",
+  "scholar": "https://scholar.google.com/citations?user=We1WRIYAAAAJ&hl=en",
+  "github": "https://github.com/Vanbk",
+  "linkedin": "https://www.linkedin.com/in/van-vu-474a19143",
+  "lab": "https://sites.google.com/view/isilab/",
+  "updated": "2026-11-07",
+  "education": [
+    { "year": "2026", "degree": "Ph.D. in Computer Science", "school": "Korea Advanced Institute of Science and Technology", "short": "KAIST", "url": "https://www.kaist.ac.kr/en/" },
+    { "year": "2020", "degree": "M.Sc. in Electrical Engineering", "school": "Korea Advanced Institute of Science and Technology", "short": "KAIST", "url": "https://www.kaist.ac.kr/en/", "detail": "Advised by Prof. Chan-Hyun Youn." },
+    { "year": "2018", "degree": "Engineer's Degree in Electrical Engineering", "school": "Hanoi University of Science and Technology", "short": "HUST", "url": "https://hust.edu.vn/en/" }
+  ],
+  "research": [
+    { "title": "Intelligent localization & navigation", "description": "Continuous indoor–outdoor positioning, pedestrian dead reckoning, and map-aware localization in environments with limited or unreliable GNSS coverage." },
+    { "title": "Multi-sensor fusion & on-device AI", "description": "Real-time estimation from heterogeneous sensor data, with a research interest in efficient learning-based localization on embedded devices." },
+    { "title": "Embedded systems & industrial IoT", "description": "Hardware–software co-design and device–cloud architectures for wearable navigation, connected sensing, and location-based safety management." }
+  ]
+}

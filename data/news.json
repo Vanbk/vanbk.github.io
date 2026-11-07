@@ -1,0 +1,86 @@
+[
+  {
+    "id": "wearable-safety-preprint",
+    "date": "2026-10-15",
+    "category": "Preprint",
+    "title": "Wearable–cloud positioning for industrial safety",
+    "summary": "Our preprint on continuous indoor–outdoor positioning for location-based safety management is available on arXiv.",
+    "links": [{ "label": "Paper and citation", "href": "/publication/wearable-safety-positioning/" }],
+    "origin": "update",
+    "sources": ["https://arxiv.org/abs/2610.21503"]
+  },
+  {
+    "id": "phd-completed",
+    "date": "2026",
+    "category": "Education",
+    "title": "Ph.D. in Computer Science at KAIST",
+    "summary": "I received my Ph.D. in Computer Science from the Korea Advanced Institute of Science and Technology (KAIST).",
+    "links": [{ "label": "Curriculum vitae", "href": "/cv/" }],
+    "origin": "update",
+    "sources": ["Owner-confirmed degree and graduation year"]
+  },
+  {
+    "id": "pdrs-smc-2025",
+    "date": "2025",
+    "category": "Publication",
+    "title": "PDRS at IEEE SMC 2025",
+    "summary": "Our work on PDRS, a self-contained inertial positioning module for wearable navigation, was published in the proceedings of IEEE SMC 2025.",
+    "links": [{ "label": "Paper and manuscript", "href": "/publication/black-box-wearable-navigation/" }],
+    "origin": "update",
+    "sources": ["https://doi.org/10.1109/SMC58881.2025.11342779"]
+  },
+  {
+    "id": "pdr-smc-2024",
+    "date": "2024",
+    "category": "Publication",
+    "title": "Real-time pedestrian dead reckoning at IEEE SMC 2024",
+    "summary": "Our paper on real-time pedestrian dead reckoning for an IoT-based positioning platform was published at IEEE SMC 2024. The work brings motion estimation onto embedded hardware to reduce communication with the positioning server.",
+    "links": [{ "label": "Paper and citation", "href": "/publication/real-time-pedestrian-dead-reckoning/" }],
+    "origin": "update",
+    "sources": ["https://pure.kaist.ac.kr/en/publications/real-time-pedestrian-dead-reckoning-for-iot-based-platform-indepe/"]
+  },
+  {
+    "id": "integrated-positioning-media",
+    "date": "2022-07",
+    "category": "Media coverage",
+    "title": "Integrated indoor–outdoor positioning featured on KBS and TJB",
+    "summary": "Our research team introduced an integrated indoor–outdoor positioning system using AI and IoT. The work was featured in news reports by KBS and TJB.",
+    "links": [
+      { "label": "KBS report", "href": "https://www.youtube.com/watch?v=coQhDIvFYQk" },
+      { "label": "TJB report", "href": "https://www.youtube.com/watch?v=fnU3htLUhV8" },
+      { "label": "Watch on this site", "href": "/demos/#media-coverage" }
+    ],
+    "origin": "legacy",
+    "sources": ["_pages/about.md", "https://vanbk.github.io/"]
+  },
+  {
+    "id": "joined-kaist",
+    "date": "2020-09",
+    "category": "Research",
+    "title": "Started working at KAIST",
+    "summary": "I began working as a full-time researcher in the Department of Computer Science at KAIST.",
+    "links": [],
+    "origin": "legacy",
+    "sources": ["_pages/about.md", "https://vanbk.github.io/"]
+  },
+  {
+    "id": "masters-completed",
+    "date": "2020-08",
+    "category": "Education",
+    "title": "M.Sc. in Electrical Engineering at KAIST",
+    "summary": "I completed my M.Sc. in Electrical Engineering at KAIST, advised by Prof. Chan-Hyun Youn.",
+    "links": [{ "label": "Curriculum vitae", "href": "/cv/" }],
+    "origin": "legacy",
+    "sources": ["_pages/about.md", "https://vanbk.github.io/"]
+  },
+  {
+    "id": "engineers-degree",
+    "date": "2018-03",
+    "category": "Education",
+    "title": "Engineer's Degree at HUST",
+    "summary": "I received my Engineer's Degree in Electrical Engineering from Hanoi University of Science and Technology (HUST).",
+    "links": [{ "label": "Curriculum vitae", "href": "/cv/" }],
+    "origin": "legacy",
+    "sources": ["_pages/about.md", "https://vanbk.github.io/"]
+  }
+]

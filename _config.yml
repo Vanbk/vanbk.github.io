@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Republic of Korea"
+locale                   : "en-US"
 title                    : "Anh-Van Vu"
 title_separator          : "-"
 name                     : &name "Anh-Van Vu"
-description              : &description "Master of Science, School of Electrical Engineering, KAIST "
+description              : &description "Ph.D. in Computer Science, KAIST (2026). Research in positioning, sensor fusion, embedded AI, and wearable IoT systems."
 url                      : https://vanbk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Vanbk/vanbk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Anh-Van Vu"
-  avatar           : "20194181.jpg"
-  bio              : "Full-time Researcher, Department of Computer Science, KAIST"
+  avatar           : "anh-van-vu-presenting-research.jpg"
+  bio              : "Researcher | Ph.D. in Computer Science, KAIST (2026)"
   location         : "Daejeon, Republic of Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=We1WRIYAAAAJ&hl=vi"
-  email            : "vuanhvan@kait.ac.kr"
+  email            : "vuanhvan@kaist.ac.kr"
   researchgate     : "https://www.researchgate.net/profile/Anh_Van_Vu"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Plugins

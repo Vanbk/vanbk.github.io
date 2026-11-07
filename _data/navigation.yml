@@ -11,14 +11,11 @@ main:
  #   url: /portfolio/
         
   - title: "Curriculum Vitae"
-    url: /files/Curriculum_Vitae_Vu_Anh_Van.pdf
+    url: /cv/
     
   - title: "Publications"
     url: /publications/
     
-  - title: "Blog Posts"
-    url: /year-archive/
-
   - title: "Contact"
     url: /contact/
 #  - title: "Guide"
