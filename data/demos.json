@@ -1,5 +1,15 @@
 [
   {
+    "id": "kailos-demo-01",
+    "youtubeId": "4kyJpvb1ukc",
+    "type": "showcase",
+    "title": "KAILOS Demo 01",
+    "description": "A demonstration of KAILOS providing seamless positioning across indoor and outdoor environments.",
+    "channel": "Vu Anh Van",
+    "channelUrl": "https://www.youtube.com/@vuanhvan195",
+    "sources": ["https://www.youtube.com/watch?v=4kyJpvb1ukc"]
+  },
+  {
     "id": "infrastructure-free-smartphone-localization",
     "youtubeId": "GmQBncvPUAE",
     "type": "showcase",
