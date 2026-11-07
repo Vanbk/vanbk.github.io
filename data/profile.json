@@ -2,6 +2,11 @@
   "name": "Anh-Van Vu",
   "url": "https://vanbk.github.io",
   "role": "Researcher",
+  "affiliation": {
+    "name": "Intelligent Service Integration Lab",
+    "shortName": "ISILAB",
+    "institution": "KAIST"
+  },
   "avatar": {
     "src": "/images/anh-van-vu-presenting-research.jpg",
     "width": 960,

@@ -38,7 +38,7 @@ The old AcademicPages/Jekyll templates remain in the repository as historical so
 
 ## Content verification — 7 November 2026
 
-The owner confirmed the **Ph.D. in Computer Science, KAIST, 2026**. The website keeps the neutral title **Researcher**; no current appointment is inferred from the degree.
+The owner confirmed the **Ph.D. in Computer Science, KAIST, 2026** and prefers the title **Researcher**. The homepage displays **Researcher at ISILAB, KAIST**, with the affiliation checked against the lab's member page. The full lab name is **Intelligent Service Integration Lab**; no appointment title is inferred from the degree.
 
 Google Scholar profile: https://scholar.google.com/citations?user=We1WRIYAAAAJ&hl=en
 
